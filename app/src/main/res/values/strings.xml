@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KarooFlightRadar</string>
+    <string name="radar_datafield_name">Radar view</string>
+
+</resources>

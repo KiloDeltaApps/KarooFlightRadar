@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExtensionInfo
+    displayName="@string/app_name"
+    icon="@mipmap/ic_launcher"
+    id="karooflightradar"
+    scansDevices="false"
+    mapLayer="false"
+    fitFile="false">
+
+    <DataType
+        typeId="radar-view"
+        description="Radar display of nearby aircraft"
+        displayName="Flight Radar"
+        graphical="true"
+        icon="@mipmap/ic_launcher" />
+
+</ExtensionInfo>
