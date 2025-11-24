@@ -20,6 +20,10 @@ Also, note that this extension has been written with the help of LLMs. While I e
 ![Radar preview](https://github.com/KiloDeltaApps/KarooFlightRadar/blob/master/radar_preview.png)
 
 
+## Support
+
+Want to support the project or follow for updates? Follow me on [Ko-fi](https://ko-fi.com/kilodeltaapps#)
+
 ## Installation
 
 To install this extension first go to the releases page and download the latest apk. Then, refer to the excellent [APK installation instructions by DCRainmaker](https://www.dcrainmaker.com/2021/02/how-to-sideload-android-apps-on-your-hammerhead-karoo-1-karoo-2.html) for further installation instructions.
