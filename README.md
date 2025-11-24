@@ -3,6 +3,8 @@
 
 This extension contains a flight radar data field for the karoo. The extension is tested on karoo 2, but should work on all karoo versions. Please use this extension with care - being distracted from traffic can be extremely dangerous. Usage is at your own risk.
 
+Also, note that this extension has been written with the help of LLMs. While I enjoy programming by hand, my android/kotlin knowledge is just too small to produce anything reliable in a reasonable timeframe.
+
 
 ## Features
 
