@@ -15,7 +15,7 @@ This extension contains a flight radar data field for the karoo. The extension i
 
 ## Demo
 
-![Radar preview]([http://url/to/img.png](https://raw.githubusercontent.com/KiloDeltaApps/KarooFlightRadar/refs/heads/master/radar_preview.png?token=GHSAT0AAAAAADOWPZIMSVAT3YCFHGUOQME22JEQMKA))
+![Radar preview](https://github.com/KiloDeltaApps/KarooFlightRadar/blob/master/radar_preview.png)
 
 
 ## Installation
