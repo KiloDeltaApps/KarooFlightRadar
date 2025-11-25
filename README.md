@@ -11,7 +11,7 @@ Also, note that this extension has been written with the help of LLMs. While I e
 - Real-Time Aircraft Tracking: Displays nearby aircraft using open-source flight data APIs.
 - Customizable Radar Display: Supports North-Up and Track-Up (Bearing-Up) orientation modes.
 - Adjustable Range: Configure the maximum display range while cycling using the notification.
-- Customizable Labels: Toggle display of Call sign, Aircraft Type, Registration, Altitude, Ground Speed, and Vertical Speed
+- Customizable Labels: Toggle display of Callsign, Aircraft Type, Registration, Altitude, Ground Speed, and Vertical Speed
 - Filter based on altitude, speed and elevation above horizon.
 
 
@@ -31,6 +31,7 @@ To install this extension first go to the releases page and download the latest 
 ## Roadmap
 
 - Better aircraft icons (GA/mil)
+- Better airfield loading
 - More efficient label decluttering, optimisation
 - Closest aircraft datafield
 - Airspace layer
